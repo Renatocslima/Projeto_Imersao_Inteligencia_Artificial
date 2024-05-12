@@ -1,9 +1,10 @@
 # Projeto_Imersao_Inteligencia_Artificial
+   <img src="https://github.com/Renatocslima/Projeto_Imersao_Inteligencia_Artificial/blob/main/OIG3.jpg" alt="logo" width="120" height="90">
+
 
 Você está cansado de tentar lembrar o nome daquele filme que você assistiu há anos e só consegue se lembrar de um fragmento da trama? 
 Não se preocupe mais! com o poder do GEMINEAI, e uma ajudinha do Letterboxd (um site de rede social para cinéfilos) vamos descobrir o nome do filme misterioso e fornecer uma sinopse ao estilo "Sessão da Tarde", além de recomendar filmes semelhantes.
 
-![Logo](https://exemplo.com/logo.png)
 
 
 ## Como funciona:
